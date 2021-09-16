@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @volkanabaoglu
-- 👀 I’m interested in cyber security and java
-- 🌱 I’m currently learning  programming
+- 👀 I’m interested in cyber security and software development
+- 🌱 I’m currently learning  programming java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
