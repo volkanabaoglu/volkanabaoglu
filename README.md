@@ -15,4 +15,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/volkanabaoglu)
 
 
-<a href=”https://www.linkedin.com/in/volkanabaoglu/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+<a href=”https://www.linkedin.com/in/volkanabaoglu/"><img align=”left” src=”https://i.stack.imgur.com/gVE0j.png" alt=”icon | LinkedIn” width=”21px”/></a>
