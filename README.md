@@ -15,4 +15,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/volkanabaoglu)
 
 
-<a href=”https://www.linkedin.com/in/volkanabaoglu/"><img align=”left” src=”https://i.stack.imgur.com/gVE0j.png" alt=”icon | LinkedIn” width=”21px”/></a>
+<p>
+  <a href="https://www.linkedin.com/in/vabaoglu/" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
