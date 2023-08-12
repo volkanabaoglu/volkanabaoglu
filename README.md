@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Cubicl
 - 🌱 I’m currently learning NodeJs 
 
 
