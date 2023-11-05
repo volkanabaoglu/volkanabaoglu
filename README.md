@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning NodeJs 
+- 🌱 I’m currently learning NodeJs - ReactJs - ExpressJs
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=volkanabaoglu&layout=compact)](https://github.com/volkanabaoglu)
