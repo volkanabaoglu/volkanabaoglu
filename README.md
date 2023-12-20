@@ -7,7 +7,7 @@
 
 
 <p>
-  <a href="https://www.linkedin.com/in/vabaoglu/"  text-decoration:none  rel="nofollow noreferrer">
+  <a href="https://www.linkedin.com/in/vabaoglu/"  rel="nofollow noreferrer" style="text-decoration:none">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
 </p>
