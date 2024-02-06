@@ -10,15 +10,15 @@
 
 # 📊 GitHub Stats:
 <div style="display: flex; justify-content: space-between;">
-  <div style="flex: 1;">
+
     ![volkanabaoglu's Stats](https://github-readme-stats.vercel.app/api?username=volkanabaoglu&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-  </div>
-  <div style="flex: 1;">
+
+ 
     ![volkanabaoglu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=volkanabaoglu&theme=vue-dark&hide_border=true)
-  </div>
-  <div style="flex: 1;">
+
+
     ![volkanabaoglu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=volkanabaoglu&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-  </div>
+
 </div>
 
 
