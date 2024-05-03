@@ -6,8 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/volkanabaoglu/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vabaoglu/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@volkanabaoglu) 
 
 # 💻 Tech Stack:
-<div style="display: flex; flex-direction: col;">
-    <div style="display: flex; flex-direction: row;">
+<div style="display: flex; flex-direction: row;">
     <div style="margin-right: 10px;">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px;">
     </div>
@@ -29,9 +28,7 @@
     <div style="margin-right: 10px;">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px;">
     </div>
-</div>
-<div style="display: flex; flex-direction: row;">
-     <div style="margin-right: 10px;">
+    <div style="margin-right: 10px;">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px;">
     </div>
     <div style="margin-right: 10px;">
@@ -47,7 +44,7 @@
         <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px;">
     </div>
 </div>
-</div>
+
 
 
 
