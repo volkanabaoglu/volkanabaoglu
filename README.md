@@ -1,8 +1,8 @@
 # 🔥 About Me:
 
-🔭 I’m currently working on Web Development.<br>
+🔭 I’m currently working on Web-Mobile Development.<br>
 🤝 I’m looking for help with Software.<br>
-🌱 I’m currently learning React-Node-Express.<br>
+🌱 I’m currently learning React/React-Native  Node  Express.<br>
 📫 How to reach me: <a href="mailto:volkanabaoglu0@gmail.com">My Mail</a>
 
 ## 🌐 Socials:
@@ -18,12 +18,10 @@
     <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65">
     <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65">
     <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="65" height="65">
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65">
     <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65">
     <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65">
     <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65">
     <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="65" height="65">
-    <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65">
     <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65">
     <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65">
 </div>
